@@ -1,0 +1,13 @@
+{
+  "name": "node-webgpu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Pr0gCat/node-webgpu.git",
+  "author": "Pr0gCat <progcat@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "node-addon-api": "^4.3.0",
+    "node-gyp": "^9.0.0"
+  }
+}
